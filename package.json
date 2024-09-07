@@ -15,7 +15,7 @@
     "search",
     "typescript"
   ],
-  "author": "Your Name",
+  "author": "Utsab Choudhury",
   "license": "MIT",
   "dependencies": {
     "@types/cheerio": "^0.22.35",
